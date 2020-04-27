@@ -17,12 +17,13 @@ em, i { font-family: "Computer Modern Bright", sans-serif; }
 
 /* table { font-family: "Computer Modern Typewriter", sans-serif; } */
 /* typography and style */
-h1 { font-family: "Computer Modern Bright", sans-serif; text-align: left; font-weight: bold; }
+h1 { font-family: "Computer Modern Bright", sans-serif; font-weight: bold; font-size: 180%; text-align: center; }
+h1:after { content:' '; display:block; border: 2px solid #cc002b; border-radius:4px; -webkit-border-radius:4px; -moz-border-radius:4px; box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); }
 h2 { font-family: "Computer Modern Bright", sans-serif; }
 /* horizontal line under each heading  */
-h2:after { content:' '; display:block; border: 2px solid #cc002b; border-radius:4px; -webkit-border-radius:4px; -moz-border-radius:4px; box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); }
+h2:after { content:' '; display:block; border: 2px solid #b3b3b3; border-radius:4px; -webkit-border-radius:4px; -moz-border-radius:4px; box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); -webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); -moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05); }
 
-.line_block { font-family: Georgia, serif; }
+.line_block { font-family: "Computer Modern Serif", sans-serif; }
 
 /* table alignment */
 table { width: 100%; margin-bottom: 15px }

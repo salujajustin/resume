@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 6 0 R
+/F1 2 0 R /F2 3 0 R /F3 7 0 R
 >>
 endobj
 2 0 obj
@@ -31,29 +31,19 @@ endobj
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://salujajustin.github.io)
+>> /Border [ 0 0 0 ] /Rect [ 280.4729 719.0236 316.5929 731.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Annots [ 4 0 R 5 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 8 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8741050)
->> /Border [ 0 0 0 ] /Rect [ 200.5029 702.0236 267.2029 714.0236 ] /Subtype /Link /Type /Annot
->>
-endobj
-9 0 obj
-<<
-/Annots [ 8 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -61,55 +51,77 @@ endobj
 >> /Type /Page
 >>
 endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8741050)
+>> /Border [ 0 0 0 ] /Rect [ 200.5029 312.0236 267.2029 324.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
 10 0 obj
 <<
-/Outlines 12 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog
+/Annots [ 9 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 11 0 obj
 <<
-/Author () /CreationDate (D:20200424125823+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200424125823+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Justin Johnson Saluja) /Trapped /False
+/Outlines 13 0 R /PageLabels 23 0 R /PageMode /UseNone /Pages 20 0 R /Type /Catalog
 >>
 endobj
 12 0 obj
 <<
-/Count 5 /First 13 0 R /Last 17 0 R /Type /Outlines
+/Author () /CreationDate (D:20200427125400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20200427125400+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Justin Johnson Saluja) /Trapped /False
 >>
 endobj
 13 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 707.0236 0 ] /Next 14 0 R /Parent 12 0 R /Title (Education)
+/Count 6 /First 14 0 R /Last 19 0 R /Type /Outlines
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 554.0236 0 ] /Next 15 0 R /Parent 12 0 R /Prev 13 0 R /Title (Relevant Coursework)
+/Dest [ 8 0 R /XYZ 62.69291 707.0236 0 ] /Next 15 0 R /Parent 13 0 R /Title (Education)
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 455.0236 0 ] /Next 16 0 R /Parent 12 0 R /Prev 14 0 R /Title (Skills)
+/Dest [ 8 0 R /XYZ 62.69291 554.0236 0 ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Relevant Coursework)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 7 0 R /XYZ 62.69291 350.0236 0 ] /Next 17 0 R /Parent 12 0 R /Prev 15 0 R /Title (Work Experience)
+/Dest [ 8 0 R /XYZ 62.69291 425.0236 0 ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (Skills)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 765.0236 0 ] /Parent 12 0 R /Prev 16 0 R /Title (Publications)
+/Dest [ 8 0 R /XYZ 62.69291 320.0236 0 ] /Next 18 0 R /Parent 13 0 R /Prev 16 0 R /Title (Work Experience)
 >>
 endobj
 18 0 obj
 <<
-/Count 2 /Kids [ 7 0 R 9 0 R ] /Type /Pages
+/Dest [ 10 0 R /XYZ 62.69291 375.0236 0 ] /Next 19 0 R /Parent 13 0 R /Prev 17 0 R /Title (Publications)
 >>
 endobj
 19 0 obj
 <<
-/Length 7591
+/Dest [ 10 0 R /XYZ 62.69291 270.0236 0 ] /Parent 13 0 R /Prev 18 0 R /Title (Projects)
+>>
+endobj
+20 0 obj
+<<
+/Count 2 /Kids [ 8 0 R 10 0 R ] /Type /Pages
+>>
+endobj
+21 0 obj
+<<
+/Length 8912
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -122,7 +134,7 @@ Q
 q
 1 0 0 1 62.69291 719.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (salujajustin@gmail.com) Tj 0 0 0 rg ( | ) Tj 0 0 .501961 rg (GitHub) Tj 0 0 0 rg (: @salujajustin | salujajustin.github.io | PDF) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (salujajustin@gmail.com) Tj 0 0 0 rg ( | ) Tj 0 0 .501961 rg (GitHub) Tj 0 0 0 rg (: @salujajustin | ) Tj 0 0 .501961 rg (Website) Tj 0 0 0 rg (: salujajustin.github.io) Tj T* ET
 Q
 Q
 q
@@ -271,74 +283,138 @@ Q
 q
 1 0 0 1 62.69291 515.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Computational Methods) Tj /F1 10 Tf (: Machine Learning, Complex Analysis, Fourier Analysis, Signals & Systems) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Undergraduate) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 497.0236 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Physics) Tj /F1 10 Tf (: Electrodynamics I/II, Quantum Mechanics, Introduction to Nano-devices) Tj T* ET
+1 0 0 1 62.69291 509.0236 cm
 Q
+q
+1 0 0 1 62.69291 509.0236 cm
+Q
+q
+1 0 0 1 62.69291 485.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.211085 Tw 12 TL /F2 10 Tf 0 0 0 rg (Computational Methods) Tj /F1 10 Tf (: Machine Learning, Complex Analysis, Fourier Analysis, Signals &) Tj T* 0 Tw (Systems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 479.0236 cm
 Q
 q
 1 0 0 1 62.69291 467.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
 q
-BT 1 0 0 1 0 14 Tm 2.193307 Tw 12 TL /F2 10 Tf 0 0 0 rg (Engineering Systems) Tj /F1 10 Tf (: Real Time DSP Applications, Microprocessor Applications, Antenna Systems,) Tj T* 0 Tw (Communication Systems and Components, Radar) Tj T* ET
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 434.0236 cm
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Physics) Tj /F1 10 Tf (: Electrostatics \(I\), Electrodynamics \(II\), Quantum Mechanics, Introduction to Nano-devices) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 5.07997 Tw 12 TL /F2 10 Tf 0 0 0 rg (Engineering Systems) Tj /F1 10 Tf (: Real Time DSP Applications, Microprocessor Applications, Antenna) Tj T* 0 Tw (Systems, Communication Systems and Components, Radar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 422.0236 cm
+1 0 0 1 62.69291 392.0236 cm
 Q
 q
-1 0 0 1 62.69291 410.0236 cm
+1 0 0 1 62.69291 380.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Programming) Tj /F1 10 Tf ( Python, C/C++, Bash, Matlab) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 398.0236 cm
+1 0 0 1 62.69291 368.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Design) Tj /F1 10 Tf ( Altium Designer, HFSS, Solidworks) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 386.0236 cm
+1 0 0 1 62.69291 356.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (iOS App Development) Tj /F1 10 Tf ( Xcode, Swift/Obj-C) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 374.0236 cm
+1 0 0 1 62.69291 344.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Markup) Tj /F1 10 Tf ( LaTeX, HTML, CSS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 362.0236 cm
+1 0 0 1 62.69291 332.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Software Development) Tj /F1 10 Tf ( Git \() Tj (& Gitlab, Github, Atlassian\), CI/CD) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 362.0236 cm
+1 0 0 1 62.69291 332.0236 cm
 Q
 q
-1 0 0 1 62.69291 329.0236 cm
+1 0 0 1 62.69291 299.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Work Experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 317.0236 cm
+1 0 0 1 62.69291 287.0236 cm
 Q
 q
-1 0 0 1 62.69291 275.0236 cm
+1 0 0 1 62.69291 245.0236 cm
 1 1 1 rg
 n 0 42 469.8898 -6 re f*
 .878431 .878431 .878431 rg
@@ -393,91 +469,13 @@ n 469.8898 0 m 469.8898 42 l S
 Q
 Q
 q
-1 0 0 1 62.69291 275.0236 cm
-Q
-q
-1 0 0 1 62.69291 269.0236 cm
-Q
-q
-1 0 0 1 62.69291 269.0236 cm
-Q
-q
 1 0 0 1 62.69291 245.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.11748 Tw (Derived a hybrid cartesian-spherical tracking algorithm for fast moving aerial targets by Frequency) Tj T* 0 Tw (Modulated Continuous Wave \(FMCW\) radar) Tj T* ET
-Q
-Q
-q
-Q
 Q
 q
 1 0 0 1 62.69291 239.0236 cm
 Q
 q
-1 0 0 1 62.69291 215.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.726976 Tw (Established substantial accuracy improvement compared to previous benchmark studies found in) Tj T* 0 Tw (practical 3D target tracking through Monte Carlo simulations) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 209.0236 cm
-Q
-q
 1 0 0 1 62.69291 197.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Produced 3D animations and GUIs for real time error analysis and visual inspection) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 197.0236 cm
-Q
-q
-1 0 0 1 62.69291 191.0236 cm
-Q
-q
-1 0 0 1 62.69291 149.0236 cm
 1 1 1 rg
 n 0 42 469.8898 -6 re f*
 .878431 .878431 .878431 rg
@@ -532,55 +530,521 @@ n 469.8898 0 m 469.8898 42 l S
 Q
 Q
 q
+1 0 0 1 62.69291 197.0236 cm
+Q
+q
+1 0 0 1 62.69291 179.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Mixed Coordinate System Dynamic Estimation for Agile 3D Maneuvers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 173.0236 cm
+Q
+q
+1 0 0 1 62.69291 173.0236 cm
+Q
+q
 1 0 0 1 62.69291 149.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.11748 Tw (Derived a hybrid cartesian-spherical tracking algorithm for fast moving aerial targets by Frequency) Tj T* 0 Tw (Modulated Continuous Wave \(FMCW\) radar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 143.0236 cm
+Q
+q
+1 0 0 1 62.69291 119.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.726976 Tw (Established substantial accuracy improvement compared to previous benchmark studies found in) Tj T* 0 Tw (practical 3D target tracking through Monte Carlo simulations) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 113.0236 cm
+Q
+q
+1 0 0 1 62.69291 101.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Produced 3D animations and GUIs for real time error analysis and visual inspection) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 101.0236 cm
+Q
+q
+1 0 0 1 62.69291 95.02362 cm
+Q
+q
+1 0 0 1 62.69291 89.02362 cm
+1 1 1 rg
+n 0 6 469.8898 -6 re f*
+.960784 .960784 .862745 rg
+n 0 6 469.8898 -6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 317.672 0 m 317.672 6 l S
+n 0 6 m 469.8898 6 l S
+n 0 0 m 0 6 l S
+n 469.8898 0 m 469.8898 6 l S
+Q
 Q
  
 endstream
 endobj
-20 0 obj
+22 0 obj
 <<
-/Length 937
+/Length 8335
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 744.0236 cm
+1 0 0 1 62.69291 729.0236 cm
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (University of Florida) Tj T* ET
+Q
+Q
+q
+1 0 0 1 323.672 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Gainesville, FL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Research Member) Tj T* ET
+Q
+Q
+q
+1 0 0 1 323.672 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (2013-2018) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 317.672 0 m 317.672 36 l S
+n 0 0 m 0 36 l S
+n 469.8898 0 m 469.8898 36 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (A Supervised Machine Learning Algorithm for Heart-rate Detection Using Doppler Motion-Sensing Radar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+Q
+q
+1 0 0 1 62.69291 669.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.178443 Tw 12 TL /F1 10 Tf 0 0 0 rg (Implemented a real time supervised machine learning method to accurately measure heart rate, <) Tj T* 0 Tw 1.672126 Tw (4% error, even if it is weak or overwhelmed by respiratory movement using non-contact Doppler) Tj T* 0 Tw (radar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .255529 Tw 12 TL /F1 10 Tf 0 0 0 rg (Designed and manufactured custom photoplethysmogram \(PPG\) & electrocardiogram \(ECG\) circuits) Tj T* 0 Tw (for ground truth measurement and error analysis) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .759269 Tw (Developed a user friendly Python wrapper for the NI-USB DAQ series driver to sample, timestamp,) Tj T* 0 Tw (and record multiple analog inputs) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Surveyed and compiled a patient database of Doppler radar samples for the scientific community) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .373318 Tw (Created Interactive GUIs for real time heart beat analysis using dynamic plotting libraries and the Qt) Tj T* 0 Tw (interface) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (An Optimal Jamming Strategy in a Wireless Ad hoc Network) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.133984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Assessed the feasibility of a binary integer linear program \(ILP\) algorithm to partition a small <) Tj T* 0 Tw (50-node mobile network with desired mobility model implementation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.469979 Tw (Coded and matured mobility models \(e.g. Random Waypoint, Random Direction, Reference Point) Tj T* 0 Tw 4.754524 Tw (Group Mobility Models\) for the performance evaluation of jammer placement and network) Tj T* 0 Tw (preservation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Built and tested autonomous robots under jammed communication environments) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (Empirical Verification of Theoretical Models on Performance Characteristics of Micro-Pillar Wick Structures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed and manufactured support structures for passive heat spreaders) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .113984 Tw (Analyzed and compared different wick architectures, which was used to design the optimal wick for a) Tj T* 0 Tw (given set of conditions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+Q
+q
+1 0 0 1 62.69291 354.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Publications) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 702.0236 cm
+1 0 0 1 62.69291 312.0236 cm
 q
 BT 1 0 0 1 0 26 Tm .481976 Tw 12 TL /F2 10 Tf 0 0 0 rg (A Supervised Machine Learning Algorithm for Heart-rate Detection Using Doppler Motion-Sensing) Tj T* 0 Tw 1.758651 Tw (Radar) Tj /F1 10 Tf ( J.J. Saluja, J. Casanova, and J. Lin ) Tj /F3 10 Tf (IEEE Journal of Electromagnetics, RF and Microwaves in) Tj T* 0 Tw (Medicine and Biology \(J-ERM\)) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (Article8741050) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 672.0236 cm
+1 0 0 1 62.69291 282.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 2.573314 Tw 12 TL /F2 10 Tf 0 0 0 rg (A Supervised Learning Approach for Real Time Vital Sign Radar Harmonics Cancellation) Tj /F1 10 Tf ( J.J.) Tj T* 0 Tw (Saluja, J. Casanova, and J. Lin ) Tj /F3 10 Tf (IEEE International Microwave Biomedical Conference \(IMBioC\), 2018) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .463318 Tw 12 TL /F2 10 Tf 0 0 0 rg (VitalSine) Tj /F1 10 Tf ( - Designed a real time, single-lead ECG monitor for arrhythmia detection. Started from a circuit) Tj T* 0 Tw (design to fabrication and eventually launching a real time demo through an iOS application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.906136 Tw 12 TL /F2 10 Tf 0 0 0 rg (Prime Number Art) Tj /F1 10 Tf ( - Coded two GPU distributed, probabilistic prime number solvers \(Miller-Raben &) Tj T* 0 Tw .505868 Tw (Lucas probable prime tests\) to find large digit prime numbers that form a picture from distant viewing. An) Tj T* 0 Tw (elliptic curve primality proving method was used to verify the final prime number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 147.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .834597 Tw 12 TL /F2 10 Tf 0 0 0 rg (Unix Configuration) Tj /F1 10 Tf (- A body of Linux/Unix configuration files and scripts that prioritizes fast, lightweight,) Tj T* 0 Tw (and asynchronous software development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 105.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .016098 Tw 12 TL /F2 10 Tf 0 0 0 rg (Smart Mirror) Tj /F1 10 Tf ( - Compiled web APIs and an RSS feed to make a voice activated smart home mirror system) Tj T* 0 Tw 2.092651 Tw (using a small system on chip computer to display information such as weather, traffic information, a) Tj T* 0 Tw (calendar and reminders.) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-21 0 obj
+23 0 obj
 <<
-/Nums [ 0 22 0 R 1 23 0 R ]
+/Nums [ 0 24 0 R 1 25 0 R ]
 >>
 endobj
-22 0 obj
+24 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-23 0 obj
+25 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 24
+0 26
 0000000000 65535 f 
 0000000073 00000 n 
 0000000124 00000 n 
@@ -588,33 +1052,35 @@ xref
 0000000343 00000 n 
 0000000524 00000 n 
 0000000707 00000 n 
-0000000822 00000 n 
-0000001051 00000 n 
-0000001267 00000 n 
-0000001490 00000 n 
-0000001596 00000 n 
-0000001875 00000 n 
-0000001949 00000 n 
-0000002059 00000 n 
-0000002192 00000 n 
-0000002312 00000 n 
-0000002441 00000 n 
-0000002554 00000 n 
-0000002620 00000 n 
-0000010263 00000 n 
-0000011251 00000 n 
-0000011301 00000 n 
-0000011335 00000 n 
+0000000889 00000 n 
+0000001004 00000 n 
+0000001239 00000 n 
+0000001455 00000 n 
+0000001679 00000 n 
+0000001785 00000 n 
+0000002064 00000 n 
+0000002138 00000 n 
+0000002248 00000 n 
+0000002381 00000 n 
+0000002501 00000 n 
+0000002630 00000 n 
+0000002757 00000 n 
+0000002867 00000 n 
+0000002934 00000 n 
+0000011898 00000 n 
+0000020285 00000 n 
+0000020335 00000 n 
+0000020369 00000 n 
 trailer
 <<
 /ID 
-[<e892ec6d85d3e0e2105e5d0ec81d1dfb><e892ec6d85d3e0e2105e5d0ec81d1dfb>]
+[<973d6b3bac796d3aadeac8529aef7e7b><973d6b3bac796d3aadeac8529aef7e7b>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 11 0 R
-/Root 10 0 R
-/Size 24
+/Info 12 0 R
+/Root 11 0 R
+/Size 26
 >>
 startxref
-11369
+20403
 %%EOF
